@@ -16,8 +16,8 @@
     * [ ] Tiger
     * [ ] Snake
     * [ ] Horse
-    * [ ] Stag
-    * [ ] Crowned agle
+    * [x] Stag
+    * [x] Eagle
     * [ ] Dragon
     * [ ] Boar
     * [ ] Turtle
@@ -26,7 +26,17 @@
     * [ ] Rabbit
     * [ ] Fox
     * [ ] Bear
-    * [ ] Wolf
-  * [ ] Bonuses
+    * [x] Wolf
+  * [ ] Decoration & background
+    * [ ] Weapons
+    * [ ] Helmet
+    * [ ] Mantling
+    * [ ] Supports
+    * [ ] Banner + text?
 * [ ] Selector + stacking mechanism
 * [ ] SVG (+ PNG?) exporter
+
+## Inspirations
+
+* http://mytribe101.com/crest
+* http://leherautdarmes.chez.com/lafaune.html
