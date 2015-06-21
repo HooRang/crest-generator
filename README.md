@@ -12,21 +12,7 @@
     * [ ] Christian cross
     * [ ] Diagonal cross
     * [ ] Upper triangle
-  * [ ] Icons
-    * [ ] Tiger
-    * [ ] Snake
-    * [ ] Horse
-    * [x] Stag
-    * [x] Eagle
-    * [ ] Dragon
-    * [ ] Boar
-    * [ ] Turtle
-    * [ ] Swan
-    * [ ] Quail
-    * [ ] Rabbit
-    * [ ] Fox
-    * [ ] Bear
-    * [x] Wolf
+  * [x] Icons
   * [ ] Decoration & background
     * [ ] Weapons
     * [ ] Helmet
@@ -34,7 +20,8 @@
     * [ ] Supports
     * [ ] Banner + text?
 * [ ] Selector + stacking mechanism
-* [ ] SVG (+ PNG?) exporter
+* [ ] SVG stacking mechanism
+  * [ ] Snap SVG (allows for clipping and masking)
 
 ## Inspirations
 
