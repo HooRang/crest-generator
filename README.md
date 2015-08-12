@@ -7,7 +7,8 @@
   * [x] Patterns
   * [x] Icons
 * [ ] Selector + stacking mechanism
-  * [ ] [Snap.svg](http://snapsvg.io/) (allows for clipping and masking)
+  * [Snap.svg](http://snapsvg.io/) (allows for clipping and masking)
+  * [svg.js](http://svgjs.com/)
 * [ ] Bonus (later)
   * [ ] Decoration & background
     * [ ] Weapons
@@ -20,3 +21,7 @@
 
 * http://mytribe101.com/crest
 * http://leherautdarmes.chez.com/lafaune.html
+
+## PNG -> SVG conversion
+
+[pixel2svg](http://florian-berger.de/en/software/pixel2svg/)
